@@ -1,0 +1,19 @@
+h1 {
+    font-size: 2em; /* Самый крупный */
+}
+
+h2 {
+    font-size: 1.5em; /* Средний */
+}
+
+h3 {
+    font-size: 1.2em; /* Самый мелкий */
+}
+
+b {
+    font-weight: bold;
+}
+
+i {
+    font-style: italic;
+}
